@@ -1,4 +1,2 @@
-# Speech Recognition Using Web Speech API in JavaScript
-
-If you'd like to learn how to build this application, refer to [this article](https://zolomohan.hashnode.dev/speech-recognition-in-javascript).
+# Aplikasi Speech Recognition ini hanya bisa dijalankan di google chrome versi 137.0 ke atas
 
